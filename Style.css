@@ -198,11 +198,11 @@
             background-color: #595757;
             color: #D1CDCD;
             padding: 10px;
-            margin-bottom: 5px; /* Add a small gap between courses */
+            margin-bottom: 5px; /* Added a small gap between courses */
             text-align: left;
           }
           
-          /* Add responsive styles as needed */
+          /* Added responsive styles as needed */
           @media (max-width: 768px) {
             .course {
               width: 100%;
